@@ -1,12 +1,15 @@
-Admin 
-username = admin satu
-password = 1234
+# Sistem Parkir
 
-petugas
-username = petugas satu
-password = 12345
+## Login Akun
 
-owner 
-username = owner satu
-password = 12345
+- **Admin**
+  - Username: admin
+  - Password: 1234
 
+- **Petugas**
+  - Username: petugas
+  - Password: 12345
+
+- **Owner**
+  - Username: owner
+  - Password: 12345
