@@ -4,7 +4,7 @@
 
 - **Admin**
   - Username: admin satu
-  - Password: 1234
+  - Password: 12345
 
 - **Petugas**
   - Username: petugas satu
